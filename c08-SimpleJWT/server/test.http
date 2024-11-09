@@ -1,0 +1,30 @@
+POST http://localhost:3000/signup  HTTP/1.1
+Content-Type: application/json
+
+{
+   "username": "pitziro",
+   "email": "email4@test.com",
+   "password": "123abc"
+}
+
+
+####
+
+GET http://localhost:3000/dashboard  HTTP/1.1
+Content-Type: application/json   
+x-access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MmFhNzk4ODIwM2NlNTZhZTNjZDUwNyIsImlhdCI6MTczMDg0ODY2NCwiZXhwIjoxNzMwOTM1MDY0fQ.fwq2cf9efAr9_FWKUn3jC-62YQIw-qn4bcFfw9xTfuY
+
+{
+   "username": "pitziro",
+   "password": "123abc" 
+}
+
+
+####
+POST http://localhost:3000/signin  HTTP/1.1
+Content-Type: application/json   
+
+{
+   "email": "email4@test.com",
+   "password": "123abc"
+}

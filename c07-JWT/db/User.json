@@ -1,0 +1,23 @@
+[
+	{
+		"_id": "8e4dd719-48a0-4e7f-b905-7da40a6ab2a7",
+		"username": "pitzx",
+		"password": "$2b$10$gpair1565cJZlf75SqucBu1HXZKtUnxVXCzFb7tBm2Wttc87PYnIS"
+	},
+	{
+		"_id": "6f4b4003-1674-4171-a732-0223a6ad4af1",
+		"username": "pitz32",
+		"password": "$2b$10$.e6Tvqu5h6DRJrVjUiVvt.DvxemAPVXnMQHYK9LfJ5/qjCOmzioee"
+	},
+	{
+		"_id": "27cbaf3a-2ae1-40ac-b9f4-7a61457a884c",
+		"username": "pitz2",
+		"password": "$2b$10$iQ2jTJoMqQlyqd9dkOcsGOKfekLoFAPfLnZ4xCkrHi4Ncfa7GkPHC"
+	},
+	{
+		"_id": "f2227617-9b3e-43e9-81e8-1f706b699764",
+		"username": "telaza",
+		"password": "$2b$10$A9NwrJkocemW.CuLtqYlBu3vuHWIHf2wXMT9WtKaJvhDWuOBbVS8."
+	},
+	{ "_id": "8873b682-a088-41a8-86aa-2762b7cbc5c6", "username": "pitziro", "password": "123456ab" }
+]

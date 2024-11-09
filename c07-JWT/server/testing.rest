@@ -1,0 +1,9 @@
+POST http://localhost:5500/login
+
+####
+POST http://localhost:5500/register 
+
+{
+   "username": "pitzx",
+   "password": "1234A6ab"
+}
